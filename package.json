@@ -1,0 +1,15 @@
+{
+  "name": "atjst",
+  "version": "1.0.0",
+  "description": "The *cleanest* JavaScript template you'll ever need.",
+  "main": "index.js",
+  "scripts": {
+    "build": "pegjs parser.pegjs"
+  },
+  "keywords": [],
+  "author": "Audi Nugraha <audinue@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "pegjs": "^0.10.0"
+  }
+}
